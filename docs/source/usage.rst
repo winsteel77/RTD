@@ -1,4 +1,4 @@
-Usage
+winsteel
 =====
 
 .. _installation:
